@@ -61,7 +61,7 @@ export default function AboutPage() {
   </p>
 
   <p>
-    Outside of development, I strengthen my problem-solving skills through competitive
+    Apart of development, I strengthen my problem-solving skills through competitive
     programming, with 700+ problems solved across LeetCode, Codeforces, and CodeChef.
     I'm always eager to learn new technologies and take on challenging engineering
     problems.

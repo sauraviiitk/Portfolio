@@ -48,9 +48,9 @@ export default function Hero() {
             />
             <div className="w-full h-full rounded-full overflow-hidden bg-[var(--glass-bg)] shadow-[0_4px_24px_rgba(0,0,0,0.06)] flex items-center justify-center">
               <Image
-                src="/avatar.svg"
+                src="/saurav.jpg"
                 alt={profile.name}
-                width={130}
+                width={170}
                 height={130}
                 className="w-full h-full object-cover"
                 priority
