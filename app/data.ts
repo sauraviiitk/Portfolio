@@ -13,7 +13,7 @@ export const profile = {
   },
   heroTitle: 'Saurav Kumar — Full-Stack Developer | Aspiring SDE | GenAI',
   heroDescription:
-    'Pre-final year CSE student at IIIT Kota building production-grade distributed systems with Node.js, Redis, Socket.IO and PostgreSQL. I design real-time WebSocket architectures handling 1K+ concurrent connections and resolve concurrency issues with atomic Redis operations. Passionate about scalable backend systems, cloud-native development and networking.'
+    'Final year CSE student at IIIT Kota building production-grade distributed systems with Node.js, Redis, Socket.IO and PostgreSQL. I design real-time WebSocket architectures handling 1K+ concurrent connections and resolve concurrency issues with atomic Redis operations. Passionate about scalable backend systems, cloud-native development and networking.'
 }
 
 export const skills = {
