@@ -32,11 +32,10 @@ export const experience = [
     period: 'Aug 2025 — Nov 2025',
     certificate: 'https://drive.google.com/file/d/1t5pS2c-zE_ygRty6rmcxL7G7EgAhTkbw/view?usp=sharing',
     points: [
-      'Designed and implemented MySQL database schemas and optimized queries for core application data, supporting CRUD operations across 4 microservices and eliminating data sync inconsistencies.',
-      'Built JWT-based authentication and route-level authorization middleware in Node.js/Express.js, securing access across multiple API endpoints.',
-      'Designed and deployed RESTful APIs in Node.js/Express.js, handling routing, request validation, and error handling for core backend services.',
-      'Debugged critical data inconsistency issues in production by tracing query and API logic, improving end-to-end reliability for live users.',
-      'Collaborated in an Agile team environment using Git-based workflows, code reviews, and iterative sprints.'
+      'Developed responsive and reusable UI components using Next.js, and Tailwind CSS, improving development speed and maintaining consistent design across the application.',
+      'Built dynamic pages with Next.js App Router, implementing client/server components, routing, and optimized rendering for a seamless user experience.',
+      ' Improved application performance by optimizing component rendering, reducing unnecessary re-renders, implementing lazy loading, and following frontend best practices.',
+      'Collaborated with designers and backend engineers in an Agile development environment, participating in Git-based workflows, code reviews, and feature delivery across sprint cycles.',
     ]
   }
 ]
@@ -61,8 +60,9 @@ export const education = [
 
 export const achievements = [
   'Top 10 out of 600+ teams — IEEE Hackathon, IIIT Gwalior (built a distributed real-time system under 24 hours)',
-  '700+ problems solved across Codeforces, LeetCode (1685+ rating), and CodeChef (3 star)'
-]
+  '700+ problems solved across Codeforces, LeetCode (1685+ rating), and CodeChef (3 star)',
+  "Advanced to Round 3 of Flipkart GRiD 8.0, one of India's premier engineering competitions, by excelling in the screening and online assessment rounds.",
+];
 
 export type Project = {
   slug: string

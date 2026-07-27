@@ -7,7 +7,7 @@ import Footer from './components/Footer'
 export const metadata: Metadata = {
   title: 'Saurav Kumar — Backend & Distributed Systems Engineer',
   description:
-    'Pre-final year CSE student at IIIT Kota building production-grade distributed systems with Node.js, Redis, Socket.IO and PostgreSQL.'
+    'Final year CSE student at IIIT Kota building production-grade distributed systems with Node.js, Redis, Socket.IO and PostgreSQL.'
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
