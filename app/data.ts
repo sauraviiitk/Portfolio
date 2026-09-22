@@ -20,7 +20,7 @@ export const skills = {
   Languages: ['JavaScript', 'TypeScript', 'Python', 'C++'],
   'Backend & Networking': ['Node.js', 'Express.js', 'REST APIs', 'WebSocket / Socket.IO', 'Redis (Pub/Sub, atomic ops)', 'JWT Auth'],
   Frontend: ['React.js', 'Next.js', 'Redux', 'Tailwind CSS'],
-  Databases: ['MongoDB', 'PostgreSQL', 'Firebase'],
+  Databases: ['MongoDB', 'PostgreSQL', 'Firebase', 'ChromaDB'],
   'DevOps & Cloud': ['Docker', 'Linux', 'Git', 'CI/CD basics', 'Vercel', 'Postman'],
   Coursework: ['Operating Systems', 'DBMS', 'SQL', 'Computer Networks', 'Machine Learning']
 }
