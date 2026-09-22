@@ -70,7 +70,7 @@ export default function Hero() {
         </div>
 
         <div className="animate-slide-up stagger-delay-2 max-w-2xl flex flex-col gap-4">
-          <h1 className="text-[var(--font-hero)] font-extrabold leading-tight text-[var(--color-heading)]">
+          <h1 className="text-[var(--font-hero)] font-extrabold leading-tight bg-gradient-to-br from-[var(--color-heading)] to-[var(--color-primary)] bg-clip-text text-transparent pb-2">
             {profile.name}
           </h1>
           <p className="text-[var(--font-h2)] text-[var(--text-muted)] font-medium">{profile.position}</p>
