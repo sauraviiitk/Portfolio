@@ -12,7 +12,7 @@ export default function ExperienceSection() {
 
       <div className="flex flex-col gap-5">
         {experience.map((job) => (
-          <div key={job.company} className="glass-card p-6 sm:p-8">
+          <div key={job.company} className="glass-card p-6 sm:p-8 transition-all duration-300 hover:-translate-y-1 hover:border-[var(--color-border-strong)] hover:shadow-lg">
             <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 mb-4">
               <div>
                 <h3 className="font-bold text-[var(--font-body-lg)] text-[var(--color-heading)]">{job.role}</h3>
