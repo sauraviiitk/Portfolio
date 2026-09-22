@@ -32,10 +32,9 @@ export const experience = [
     period: 'Aug 2025 — Nov 2025',
     certificate: 'https://drive.google.com/file/d/1t5pS2c-zE_ygRty6rmcxL7G7EgAhTkbw/view?usp=sharing',
     points: [
-      'Developed responsive and reusable UI components using Next.js, and Tailwind CSS, improving development speed and maintaining consistent design across the application.',
-      'Built dynamic pages with Next.js App Router, implementing client/server components, routing, and optimized rendering for a seamless user experience.',
-      ' Improved application performance by optimizing component rendering, reducing unnecessary re-renders, implementing lazy loading, and following frontend best practices.',
-      'Collaborated with designers and backend engineers in an Agile development environment, participating in Git-based workflows, code reviews, and feature delivery across sprint cycles.',
+      'Architected MySQL database schemas and deployed RESTful APIs in Node.js and Express.js, optimizing queries, routing, validation and error handling across 4 microservices to eliminate data-sync inconsistencies.',
+      'Resolved critical production data inconsistency issues by tracing query and API logic across services, fixing recurring synchronization failures affecting live users.',
+      'Collaborated in an Agile team using Git-based workflows, code reviews and GitHub Copilot to accelerate development cycles.'
     ]
   }
 ]
