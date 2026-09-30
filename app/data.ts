@@ -32,9 +32,9 @@ export const experience = [
     period: 'Aug 2025 — Nov 2025',
     certificate: 'https://drive.google.com/file/d/1t5pS2c-zE_ygRty6rmcxL7G7EgAhTkbw/view?usp=sharing',
     points: [
-      'Architected MySQL database schemas and deployed RESTful APIs in Node.js and Express.js, optimizing queries, routing, validation and error handling across 4 microservices to eliminate data-sync inconsistencies.',
-      'Resolved critical production data inconsistency issues by tracing query and API logic across services, fixing recurring synchronization failures affecting live users.',
-      'Collaborated in an Agile team using Git-based workflows, code reviews and GitHub Copilot to accelerate development cycles.'
+      'Developed centralized error handling and request validation for internal REST APIs using Flask, improving backend reliability for services used by 2+ cross-functional teams.',
+      'Redesigned PostgreSQL schemas and optimized SQL queries, reducing average query response time by ∼30% and resolving recurring data-consistency issues across internal tools.',
+      'Containerized backend services using Docker and streamlined development environments, while contributing to Git/GitHub-based code reviews and an Agile development workflow.'
     ]
   }
 ]
